@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Anna85yb
+- 👀 I’m interested in econometrics
+- 🌱 I’m currently learning python/matlab/stata/R
+- 💞️ I’m looking to collaborate on writing econometric codes
+- 📫 Reach me through annaduan85@gmail.com
